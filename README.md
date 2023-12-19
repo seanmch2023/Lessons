@@ -1,3 +1,3 @@
 # Lessons
 ##### Mon to Friyay
-### <a href="https://github.com/seanmch2023/Grinds" target="_blank">Home</a> <hr>
+### <hr> <a href="https://github.com/seanmch2023/seanmch2023.github.io" target="_blank">Home</a> <hr>
